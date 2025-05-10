@@ -30,6 +30,3 @@ Desenvolvido para o desafio de **Criação de Repositório com Versionamento** n
 
 JOÃO VICTOR PEREIRA ALVES — [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-536b22188/)
 
----
-
-Esse repositório faz parte do portfólio de projetos estudantis.
