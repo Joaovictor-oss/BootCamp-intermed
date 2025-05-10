@@ -1,5 +1,5 @@
 # BootCamp-intermed
-BootCamp intermediario
+BootCamp intermediario projeto de calculadora
 # Calculadora Web
 
 Este é um projeto de uma **calculadora simples** desenvolvida com HTML, CSS e JavaScript, como parte do desafio do Bootcamp I - 2025.
